@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Android1.1Lesson2Dz</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="go_to_next_page">go to next page</string>
+    <string name="login">Логин</string>
+    <string name="psw">Пароль</string>
+    <string name="input">Войти</string>
+</resources>
